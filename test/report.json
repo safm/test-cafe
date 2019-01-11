@@ -1,0 +1,26 @@
+{
+  "startTime": "2019-01-11T18:36:12.360Z",
+  "endTime": "2019-01-11T18:36:16.349Z",
+  "userAgents": [
+    "Firefox 64.0.0 / Mac OS X 10.12.0"
+  ],
+  "passed": 1,
+  "total": 1,
+  "skipped": 0,
+  "fixtures": [
+    {
+      "name": "Google",
+      "path": "/Users/yh04329/workspace/test-cafe/test/google.js",
+      "tests": [
+        {
+          "name": "Verify Google",
+          "errs": [],
+          "durationMs": 3925,
+          "screenshotPath": null,
+          "skipped": false
+        }
+      ]
+    }
+  ],
+  "warnings": []
+}
